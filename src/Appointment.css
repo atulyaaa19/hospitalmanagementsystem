@@ -1,0 +1,11 @@
+.Appointment {
+    background-color: lightblue;
+}
+.App {
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+
+  background-image: url("C:\Users\Atulya Sahane\Desktop\healthcare-medical-concept-medicine-doctor-with-stethoscope-hand-patients-come_34200-313.webp");
+  background-repeat: no-repeat;
+}

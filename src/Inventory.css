@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+
+}
+
+.body5{
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+    background-image: url("C:\Users\Atulya Sahane\Desktop\REACT\New folder (2)\myapp1\public\doctor.jpeg");
+    background-repeat: no-repeat;
+}
+
+
+.update {
+    background-color: rgb(249, 249, 249);
+    height: 100%;
+    border-radius: 10px;
+}
